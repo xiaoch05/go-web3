@@ -8,7 +8,7 @@ This project is no longer supported, please consider using [go-ethereum](https:/
 
 # Ethereum Go Client
 
-[![Build Status](https://travis-ci.org/regcostajr/go-web3.svg?branch=master)](https://travis-ci.org/regcostajr/go-web3)
+[![Build Status](https://travis-ci.org/xiaoch05/go-web3.svg?branch=master)](https://travis-ci.org/xiaoch05/go-web3)
 
 This is a Ethereum compatible Go Client
 
@@ -175,13 +175,13 @@ TODO List
 ### go get
 
 ```bash
-go get -u github.com/regcostajr/go-web3
+go get -u github.com/xiaoch05/go-web3
 ```
 
 ### glide
 
 ```bash
-glide get github.com/regcostajr/go-web3
+glide get github.com/xiaoch05/go-web3
 ```
 
 ### Requirements

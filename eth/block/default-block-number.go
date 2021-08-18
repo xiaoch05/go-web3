@@ -15,14 +15,14 @@
 /**
  * @file default-block-number.go
  * @authors:
- *   Reginaldo Costa <regcostajr@gmail.com>
+ *   Reginaldo Costa <xiaoch05@gmail.com>
  * @date 2017
  */
 
 package block
 
 import (
-	"github.com/regcostajr/go-web3/utils"
+	"github.com/xiaoch05/go-web3/utils"
 	"math/big"
 )
 

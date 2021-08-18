@@ -15,15 +15,15 @@
 /**
  * @file db.go
  * @authors:
- *   Reginaldo Costa <regcostajr@gmail.com>
+ *   Reginaldo Costa <xiaoch05@gmail.com>
  * @date 2017
  */
 
 package db
 
 import (
-	"github.com/regcostajr/go-web3/dto"
-	"github.com/regcostajr/go-web3/providers"
+	"github.com/xiaoch05/go-web3/dto"
+	"github.com/xiaoch05/go-web3/providers"
 )
 
 // DB - The DB Module

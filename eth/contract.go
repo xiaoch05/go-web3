@@ -15,7 +15,7 @@
 /**
  * @file contract.go
  * @authors:
- *   Reginaldo Costa <regcostajr@gmail.com>
+ *   Reginaldo Costa <xiaoch05@gmail.com>
  * @date 2018
  */
 
@@ -25,11 +25,11 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/regcostajr/go-web3/complex/types"
-	"github.com/regcostajr/go-web3/dto"
+	"github.com/xiaoch05/go-web3/complex/types"
+	"github.com/xiaoch05/go-web3/dto"
 	"strings"
 
-	"github.com/regcostajr/go-web3/utils"
+	"github.com/xiaoch05/go-web3/utils"
 	"math/big"
 )
 

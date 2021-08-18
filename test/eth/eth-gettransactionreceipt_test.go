@@ -15,7 +15,7 @@
 /**
  * @file eth-gettransactionreceipt.go
  * @authors:
- *   Reginaldo Costa <regcostajr@gmail.com>
+ *   Reginaldo Costa <xiaoch05@gmail.com>
  * @date 2018
  */
 
@@ -23,9 +23,9 @@ package test
 
 import (
 	"encoding/json"
-	web3 "github.com/regcostajr/go-web3"
-	"github.com/regcostajr/go-web3/dto"
-	"github.com/regcostajr/go-web3/providers"
+	web3 "github.com/xiaoch05/go-web3"
+	"github.com/xiaoch05/go-web3/dto"
+	"github.com/xiaoch05/go-web3/providers"
 	"io/ioutil"
 	"math/big"
 	"testing"

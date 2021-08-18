@@ -15,7 +15,7 @@
 /**
  * @file json-rpc-object.go
  * @authors:
- *   Reginaldo Costa <regcostajr@gmail.com>
+ *   Reginaldo Costa <xiaoch05@gmail.com>
  * @date 2017
  */
 

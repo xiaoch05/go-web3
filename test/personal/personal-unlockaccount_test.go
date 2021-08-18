@@ -15,7 +15,7 @@
 /**
  * @file personal-unlockaccount_test.go
  * @authors:
- *   Reginaldo Costa <regcostajr@gmail.com>
+ *   Reginaldo Costa <xiaoch05@gmail.com>
  * @date 2017
  */
 package test
@@ -24,8 +24,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/regcostajr/go-web3"
-	"github.com/regcostajr/go-web3/providers"
+	"github.com/xiaoch05/go-web3"
+	"github.com/xiaoch05/go-web3/providers"
 )
 
 func TestPersonalUnlockAccount(t *testing.T) {

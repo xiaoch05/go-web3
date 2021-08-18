@@ -15,7 +15,7 @@
 /**
  * @file eth-coinbase_test.go
  * @authors:
- *   Reginaldo Costa <regcostajr@gmail.com>
+ *   Reginaldo Costa <xiaoch05@gmail.com>
  * @date 2017
  */
 
@@ -24,9 +24,9 @@ package test
 import (
 	"testing"
 
-	web3 "github.com/regcostajr/go-web3"
-	"github.com/regcostajr/go-web3/eth/block"
-	"github.com/regcostajr/go-web3/providers"
+	web3 "github.com/xiaoch05/go-web3"
+	"github.com/xiaoch05/go-web3/eth/block"
+	"github.com/xiaoch05/go-web3/providers"
 )
 
 func TestEthCoinbase(t *testing.T) {
